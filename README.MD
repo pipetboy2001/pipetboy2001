@@ -31,22 +31,16 @@
                 <a href="https://www.cprogramming.com/" target="_blank">
                 <img src="SVG/c-original.svg" alt="c" width="40"
                 height="40" /> </a>
-
                 <a href="https://www.python.org" target="_blank">
                 <img src="SVG/python-original.svg" alt="python" width="40" 
                 height="40" /> </a>
-
         <h3 align="left" style="font-size: 24px"> ~ 👻 programacion web :~</h2>
-                
                 <a href="https://www.w3.org/html/" target="_blank"> <img
                 src="SVG/html5-original-wordmark.svg"
                 alt="html5" width="40" height="40" /> </a> 
-
                 <a href="https://www.w3schools.com/css/" target="_blank">
                 <img src="SVG/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-
         <h3 align="left" style="font-size: 24px"> ~ 👻 programacion web :~</h2>
-
                 <a href="https://www.photoshop.com/en" target="_blank"> <img
                 src="SVG/photoshop-line.svg"
                 alt="photoshop" width="40" height="40" /> </a> 
@@ -63,14 +57,11 @@
             <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                     alt="pipetboy2001" height="30" width="40" /></a>
-
             <a href="https://instagram.com/felipe_pipetboy" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="felipe_pipetboy" height="30" width="40" /></a>
-                    
+                    alt="felipe_pipetboy" height="30" width="40" /></a>                  
         </p>
     </div>
-
     <div>
         <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
         <div align="center"><img src="https://pa1.narvii.com/6505/542bba21c9c1197ecebf9f52c9ec5188e4268870_hq.gif"></div>
