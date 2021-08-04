@@ -20,7 +20,6 @@
         <li>
             <b>language that dominated:</b> Spanish and english
         </li>
-
     </div>
     <div>
         <h2 align="center" style="font-size: 24px">~ 👻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:~</h2>
