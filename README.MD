@@ -10,11 +10,10 @@
     <br>
     <div>
         <!--imagen al lado derecho-->
-        <img src="gif/kirby audifonos.gif" align="right" width="100"
-            height="100">
+        <img src="gif/kirby audifonos.gif" align="right" width="100" height="100">
         <!--informacion sobre mi-->
         <li>
-            <b>👨‍🎓 ~im'm currently learning: </b>HTML, CSS y JavaScript ~👨‍🎓
+            <b>👨‍🎓 ~im'm currently learning: </b>JavaScriptand use of design tools ~👨‍🎓
         </li>
         <li>
             <b>Nationality:</b> Chile
@@ -30,51 +29,56 @@
             <img src="gif/kirby y coo.gif" align="left" width="300" height="400">
     </div>
     <p align="left">
-    <!-- lenguajes de programacion -->
+        <!-- lenguajes de programacion -->
     <h3 align="left" style="font-size: 24px"> ~ 🌸 programming languages:~</h2>
         <a href="https://www.cprogramming.com/" target="_blank">
             <img src="SVG/c-original.svg" alt="c" width="40" height="40" /> </a>
         <a href="https://www.python.org" target="_blank">
             <img src="SVG/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <!-- programacion web -->
+        <a href="https://www.java.com/es/" target="_blank">
+            <img src="SVG/java-4-logo.svg" alt="Java" width="40" height="40" /> </a>
+        <!-- programacion web -->
         <h3 align="left" style="font-size: 24px"> ~ 🌷 Web programming :~</h2>
             <a href="https://www.w3.org/html/" target="_blank"> <img src="SVG/html5-original-wordmark.svg" alt="html5"
                     width="40" height="40" /> </a>
             <a href="https://www.w3schools.com/css/" target="_blank">
                 <img src="SVG/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <!-- diseño grafico -->
-            <h3 align="left" style="font-size: 24px"> ~ 🌺 graphic design :~</h2>
-                <a href="https://www.photoshop.com/en" target="_blank"> <img src="SVG/photoshop-line.svg"
-                        alt="photoshop" width="40" height="40" /> </a>
-                <br>
-                <br>
-                I like to learn a little about everything
-                <br>
-                but this is where I specialize the most
-                <br>
-                <br>
-                <br>
-    </p>
-    <!--Contacto-->
-    <div>
-        <h2 align="center" style="font-size: 24px">~🐱‍💻 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🐱‍💻:~</h2>
-        <p align="center">
-            <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
-            src="SVG/twitter.svg"
-            alt="pipetboy2001" height="30" width="40" /></a>          
-            <a href="https://instagram.com/felipe_pipetboy" target="blank"><img align="center"
-            src="SVG/instagram.svg"
-            alt="felipe_pipetboy" height="30" width="40" /></a>
-        </p>
-    </div>
-    <!--Agradecimiento-->
-    <div>
-    <h2 align="center">💗 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💗</h2>
-    <div align="center"><img
-    src="gif/kirby rodando.gif"></div>
-    </div>
-    <!---->
-    <hr>
-    <div>
-    </div>
+        <!-- diseño grafico -->
+        <h3 align="left" style="font-size: 24px"> ~ 🌺 graphic design :~</h2>
+            <a href="https://www.photoshop.com/en" target="_blank">
+                <img src="SVG/Adobe_Photoshop.svg" alt="photoshop" width="40" height="40" /> </a>
+            <a href="https://www.adobe.com/cl/products/illustrator.html" target="_blank">
+                <img src="SVG/Adobe_Illustrator.svg" alt="Illustrator" width="40" height="40" /> </a>
+            <a href="https://www.adobe.com/cl/products/xd.html" target="_blank">
+                <img src="SVG/Adobe_XD.svg" alt="XD" width="40" height="40" /> </a>
+            <a href="https://www.adobe.com/cl/products/dreamweaver.htmll" target="_blank">
+                <img src="SVG/Adobe_Dreamweaver.svg" alt="DreamWeaver" width="40" height="40" /> </a>
+            <br>
+            <br>
+            I like to learn a little about everything
+            <br>
+            but this is where I specialize the most
+            <br>
+            <br>
+            <br>
+                </p>
+                <!--Contacto-->
+                <div>
+                    <h2 align="center" style="font-size: 24px">~🐱‍💻 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🐱‍💻:~</h2>
+                    <p align="center">
+                        <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
+                                src="SVG/twitter.svg" alt="pipetboy2001" height="30" width="40" /></a>
+                        <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
+                                src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
+                    </p>
+                </div>
+                <!--Agradecimiento-->
+                <div>
+                    <h2 align="center">💗 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💗</h2>
+                    <div align="center"><img src="gif/kirby rodando.gif"></div>
+                </div>
+                <!---->
+                <hr>
+                <div>
+                </div>
 </body>
