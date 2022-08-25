@@ -1,12 +1,6 @@
-<body>
-    <h1 align="center">~ 😽 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 😽 ~</h1>
-    <br>
-    <!--imagen de bienvenida al centro-->
-    <div align="center"><img src="gif/kirby salta.gif"></div>
-    <!--saludo-->
-    <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓕𝓮𝓵𝓲𝓹𝓮 </h1>
-    <!--quien sos?-->
-    <h3 align="center">computer and informatics engineering student</h3>
+<body style="background-color: #141321" >
+	<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓕𝓮𝓵𝓲𝓹𝓮 </h1>
+	<h3 align="center">computer and informatics engineering student</h3>
     <br>
     <div>
         <!--imagen al lado derecho-->
@@ -33,7 +27,7 @@
     </div>
     <p align="left">
         <!-- lenguajes de programacion -->
-    <h3 align="left" style="font-size: 24px"> ~ 🌸 programming languages:~</h2>
+    <h3 align="left" style="font-size: 24px"> ~ 🌸 programming languages:~</h2>
         <a href="https://www.cprogramming.com/" target="_blank">
             <img src="SVG/c-original.svg" alt="c" width="40" height="40" /> </a>
         <a href="https://www.python.org" target="_blank">
@@ -41,13 +35,15 @@
         <a href="https://www.java.com/es/" target="_blank">
             <img src="SVG/java-4-logo.svg" alt="Java" width="40" height="40" /> </a>
         <!-- programacion web -->
-        <h3 align="left" style="font-size: 24px"> ~ 🌷 Web programming :~</h2>
+        <h3 align="left" style="font-size: 24px"> ~ 🌷 Web programming :~</h2>
             <a href="https://www.w3.org/html/" target="_blank"> <img src="SVG/html5-original-wordmark.svg" alt="html5"
                     width="40" height="40" /> </a>
             <a href="https://www.w3schools.com/css/" target="_blank">
                 <img src="SVG/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+            <a href="https://www.javascript.com/" target="_blank"> <img src="SVG/Javascript-shield.svg" alt="html5"
+                    width="40" height="40" /> </a>
             <!-- diseño grafico -->
-            <h3 align="left" style="font-size: 24px"> ~ 🌺 graphic design :~</h2>
+            <h3 align="left" style="font-size: 24px"> ~ 🌺 graphic design :~</h2>
                 <a href="https://www.photoshop.com/en" target="_blank">
                     <img src="SVG/Adobe_Photoshop.svg" alt="photoshop" width="40" height="40" /> </a>
                 <a href="https://www.adobe.com/cl/products/illustrator.html" target="_blank">
@@ -56,8 +52,12 @@
                     <img src="SVG/Adobe_XD.svg" alt="XD" width="40" height="40" /> </a>
                 <a href="https://www.adobe.com/cl/products/dreamweaver.htmll" target="_blank">
                     <img src="SVG/Adobe_Dreamweaver.svg" alt="DreamWeaver" width="40" height="40" /> </a>
-                <br>
-                <br>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/pipetboy/github-readme-stats)
+
+<br>
                 I like to learn a little about everything
                 <br>
                 but this is where I specialize the most
@@ -82,6 +82,6 @@
                 </div>
                 <!---->
                 <hr>
-                <div>
-                </div>
+        <div>
+    </div>
 </body>
