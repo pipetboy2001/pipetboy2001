@@ -5,7 +5,7 @@
 * 👨‍🎓 ~im'm currently learning: </b>JavaScript and use of design tools ~👨‍🎓
 * <b>Nationality:</b> Chile 
 * <b>language that dominated:</b> Spanish and english
-* <b>Student at: </b>  [USACH](https://url.com "University of Santiago de Chile").
+* <b>Student at: </b>  [USACH](https://informatica.usach.cl/ "University of Santiago de Chile").
 
 <h2  align="center" >👻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:</h2>
 <img src="gif/kirby y coo.gif" align="left" width="200" height="300">
@@ -55,32 +55,24 @@
 <a  href="https://www.canva.com"  target="_blank">
 <img  src="SVG/Canva_icon_2021.svg" title="Canva" alt="Canva"  width="40"  height="40" /> </a>
 
-
 <h1  align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipetboy2001&layout=compact&theme=radical&langs" />
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
 <div>
-
   <img src="https://github-profile-trophy.vercel.app/?username=pipetboy2001&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pipetboy2001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   𝗡𝗢𝗧𝗘: 𝗧𝗵𝗶𝘀 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗶𝗻𝗱𝗶𝗰𝗮𝘁𝗲 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹 𝗹𝗲𝘃𝗲𝗹 𝗼𝗿 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, 𝗶𝘁'𝘀 𝗺𝗲𝗿𝗲𝗹𝘆 𝗮 𝗚𝗶𝘁𝗛𝘂𝗯 𝗺𝗲𝘁𝗿𝗶𝗰 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗰𝗼𝗱𝗲 𝗼𝗳 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.
-
 </div>
 </details>
-
----
-
-
 <div>
-                    <h2 align="center" style="font-size: 24px">~🐱‍💻 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🐱‍💻:~</h2>
-                    <p align="center">
-                        <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
-                                src="SVG/twitter.svg" alt="pipetboy2001" height="30" width="40" /></a>
-                        <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
-                                src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
-                    </p>
-                </div>
+<h2 align="center" style="font-size: 24px">~🐱‍💻 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 🐱‍💻:~<h2>
+        <p align="center">
+                <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
+                src="SVG/twitter.svg" alt="pipetboy2001" height="30" width="40" /></a>
+                <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
+                src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
+        </p>
+</div>
