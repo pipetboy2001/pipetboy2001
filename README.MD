@@ -18,7 +18,7 @@
 <img  src="SVG/python-original.svg"  title="Python" alt="python"  width="40"  height="40" /> </a>
 <a  href="https://www.java.com/es/"  target="_blank">
 <img  src="SVG/java-4-logo.svg"  title="JAVA" alt="Java"  width="40"  height="40" /> </a>
-<a href="" target="_blank"> 
+<a href="https://www.php.net/" target="_blank"> 
 <img  src="SVG/PHP-logo.svg"  title="PHP" alt="PHP" width="40"  height="40" /> </a>
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img  src="SVG/html5-original-wordmark.svg"  title="HTML5" alt="html5" width="40"  height="40" /> </a>
@@ -63,7 +63,7 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=pipetboy2001&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pipetboy2001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Pipetboy2001 github activity graph](https://activity-graph.herokuapp.com/graph?username=pipetboy2001&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
   𝗡𝗢𝗧𝗘: 𝗧𝗵𝗶𝘀 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗶𝗻𝗱𝗶𝗰𝗮𝘁𝗲 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹 𝗹𝗲𝘃𝗲𝗹 𝗼𝗿 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, 𝗶𝘁'𝘀 𝗺𝗲𝗿𝗲𝗹𝘆 𝗮 𝗚𝗶𝘁𝗛𝘂𝗯 𝗺𝗲𝘁𝗿𝗶𝗰 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗰𝗼𝗱𝗲 𝗼𝗳 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.
 </div>
 </details>
