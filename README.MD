@@ -6,7 +6,7 @@
 * <b>Nationality:</b> Chile 
 * <b>language that dominated:</b> Spanish and english
 * <b>Student at: </b>  [USACH](https://url.com "University of Santiago de Chile").
----
+
 <h2  align="center" >👻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:</h2>
 <img src="gif/kirby y coo.gif" align="left" width="200" height="300">
 <p  align="left">
@@ -55,10 +55,10 @@
 <a  href="https://www.canva.com"  target="_blank">
 <img  src="SVG/Canva_icon_2021.svg" title="Canva" alt="Canva"  width="40"  height="40" /> </a>
 
----
+
 <h1  align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipetboy2001&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipetboy2001&layout=compact&theme=radical&langs" />
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
 <div>
