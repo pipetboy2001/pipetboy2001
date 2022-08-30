@@ -56,8 +56,8 @@
 <img  src="SVG/Canva_icon_2021.svg" title="Canva" alt="Canva"  width="40"  height="40" /> </a>
 
 <h1  align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipetboy2001&layout=compact&theme=radical&langs" />
+<img height="170" align="left" src="https://github-readme-stats-delta-bice-76.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats-delta-bice-76.vercel.app/api/top-langs/?username=Pipetboy2001&layout=compact&theme=radical&langs" />
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
 <div>
