@@ -2,7 +2,7 @@
 <h3  align="center">ᴄᴏᴍᴘᴜᴛᴇʀ ᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ ᴇɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ</h3>
 <img src="gif/kirby audifonos.gif" align="right" width="100" height="100"-->
 
-* 👨‍🎓 ~im'm currently learning: </b>JavaScript and use of design tools ~👨‍🎓
+* 👨‍🎓 ~im'm currently learning: </b>Frameworks and use of design tools ~👨‍🎓
 * <b>Nationality:</b> Chile 
 * <b>language that dominated:</b> Spanish and english
 * <b>Student at: </b>  [USACH](https://informatica.usach.cl/ "University of Santiago de Chile").
@@ -10,12 +10,14 @@
 <h2  align="center" >👻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:</h2>
 <img src="gif/kirby y coo.gif" align="left" width="200" height="300">
 <p  align="left">
-<h3  align="left"  style="font-size: 24px"> 🌸 LANGUAGES:</h2>
+<h3  align="left"  style="font-size: 24px"> 🌸 LANGUAGES & DATABASE:</h2>
 <ul>
 <a  href="https://www.cprogramming.com/"  target="_blank">
 <img  src="SVG/c-original.svg"   title="C" alt="c"  width="40"  height="40" /> </a>
 <a  href="https://www.python.org"  target="_blank">
 <img  src="SVG/python-original.svg"  title="Python" alt="python"  width="40"  height="40" /> </a>
+<a href="https://www.swi-prolog.org/"  target="_blank">
+<img  src="SVG/prolog.svg"  title="Prolog" alt="prolog"  width="40"  height="40" /> </a>
 <a  href="https://www.java.com/es/"  target="_blank">
 <img  src="SVG/java-4-logo.svg"  title="JAVA" alt="Java"  width="40"  height="40" /> </a>
 <a href="https://www.php.net/" target="_blank"> 
@@ -28,32 +30,61 @@
 <img  src="SVG/Javascript-shield.svg"  title="JavaScript" alt="Javascript" width="40"  height="40"  > </a>
 <a href="https://www.markdownguide.org/" target="_blank"> 
 <img  src="SVG/Markdown-mark.svg" title="MarkDown" alt="MarkDown" width="40"  height="40" /> </a>
+<!--Database-->
+<a href="https://www.mysql.com/" target="_blank">
+<img  src="SVG/mysql.svg"  title="MySQL" alt="MySQL" width="40"  height="40" /> </a>
+<a href="https://www.postgresql.org" target="_blank">
+<img  src="SVG/postgresql.svg"  title="PostgreSQL" alt="PostgreSQL" width="40"  height="40" /> </a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img  src="SVG/mongodb.svg"  title="MongoDB" alt="MongoDB" width="40"  height="40" /> </a>
+
+
 <!-- FRAMEWORKS, PLATFORMS & LIBRARIES -->
 <h3  align="left"  style="font-size: 24px"> 🌷 FRAMEWORKS, PLATFORMS , LIBRARIES & TOOLS:</h2>
+<a  href="https://git-scm.com/"  target="_blank">
+<img  src="SVG/git-original.svg" title="GIT" alt="GIT"  width="40"  height="40" /> </a>
 <a  href="https://getbootstrap.com/"  target="_blank">
 <img  src="SVG/Bootstrap_logo.svg"  title="Bootstrap" alt="Bootstrap"  width="40"  height="40" /> </a>
+<a  href="https://spring.io/"  target="_blank">
+<img  src="SVG/spring-logo.svg"  title="Spring" alt="Spring"  width="40"  height="40" /> </a>
 <a  href="https://laravel.com/"  target="_blank">
 <img  src="SVG/Laravel.svg"  title="Laravel" alt="Laravel"  width="40"  height="40" /> </a>
 <a  href="https://nodejs.org/en/"  target="_blank">
 <img  src="SVG/node-js.svg"  title="Node.js" alt="Node JS"  width="40"  height="40" /> </a>
 <a  href="https://vuejs.org/"  target="_blank">
 <img  src="SVG/Vue.js.svg"  title="Vue" alt="Vue"  width="40"  height="40" /> </a>
-<a  href="https://git-scm.com/"  target="_blank">
-<img  src="SVG/git-scm-icon.svg" title="GIT" alt="GIT"  width="40"  height="40" /> </a>
-<!--herramientas-->
+<a  href="https://reactjs.org/"  target="_blank">
+<img  src="SVG/React-icon.svg"  title="React" alt="React"  width="40"  height="40" /> </a>
+<a  href="https://www.atlassian.com/es/software/jira"  target="_blank">
+<img  src="SVG/Jira.svg"  title="Jira" alt="Jira"  width="40"  height="40" /> </a>
+<a href="https://www.docker.com/" target="_blank">
+<img  src="SVG/docker-original.svg"  title="Docker" alt="Docker" width="40"  height="40" /> </a>
+<a href="https://www.jenkins.io/" target="_blank">
+<img  src="SVG/Jenkins.svg"  title="Jenkins" alt="Jenkins" width="40"  height="40" /> </a>
+<a href="https://prometheus.io/" target="_blank">
+<img  src="SVG/prometheus.svg"  title="Prometheus" alt="Prometheus" width="40"  height="40" /> </a>
+<a href="https://grafana.com/" target="_blank">
+<img  src="SVG/grafana.svg"  title="Grafana" alt="Grafana" width="40"  height="40" /> </a>
+<a  href="https://www.digitalocean.com/"  target="_blank">
+<img  src="SVG/digitalocean-original.svg"  title="Digital Ocean" alt="Digital Ocean"  width="40"  height="40" /> </a>
+
+
+<!--Diseño-->
 <h3  align="left"  style="font-size: 24px"> 🌺 DESIGN :</h2>
 <a  href="https://www.photoshop.com/en"  target="_blank">
 <img  src="SVG/Adobe_Photoshop.svg"  title="photoshop" alt="photoshop"  width="40"  height="40" /> </a>
 <a  href="https://www.adobe.com/cl/products/illustrator.html"  target="_blank">
-<img  src="SVG/Adobe_Illustrator.svg" title="illustrator" alt="Illustrator"  width="40"  height="40" /> </a>
+<img  src="SVG/Adobe_Illustrator.svg" title="illustrator" alt="Illustrator"  width="40"  height="40" /></a>
 <a  href="https://www.adobe.com/cl/products/xd.html"  target="_blank">
 <img  src="SVG/Adobe_XD.svg" title="XD" alt="XD"  width="40"  height="40" /> </a>
 <a  href="https://www.adobe.com/pe/products/premiere.html"  target="_blank">
-<img  src="SVG/Adobe_Premiere_Pro_Logo.svg" title="Premiere pro" alt="Premiere Pro"  width="40"  height="40" /> </a>
+<img  src="SVG/Adobe_Premiere_Pro_Logo.svg" title="Premiere pro" alt="Premiere Pro"  width="40"  height="40" /></a>
 <a  href="https://www.adobe.com/cl/products/dreamweaver.htmll"  target="_blank">
-<img  src="SVG/Adobe_Dreamweaver.svg"  title="DreamWeaver" alt="DreamWeaver"  width="40"  height="40" /> </a>
+<img  src="SVG/Adobe_Dreamweaver.svg"  title="DreamWeaver" alt="DreamWeaver"  width="40"  height="40"/></a>
 <a  href="https://www.canva.com"  target="_blank">
 <img  src="SVG/Canva_icon_2021.svg" title="Canva" alt="Canva"  width="40"  height="40" /> </a>
+<a  href="https://www.figma.com/"  target="_blank">
+<img  src="SVG/Figma-logo.svg" title="Figma" alt="Figma"  width="40"  height="40" /> </a>
 
 <h1  align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
 <img height="170" align="left" src="https://github-readme-stats-delta-bice-76.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
