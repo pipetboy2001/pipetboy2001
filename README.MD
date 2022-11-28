@@ -56,7 +56,7 @@
 <a  href="https://reactjs.org/"  target="_blank">
 <img  src="SVG/React-icon.svg"  title="React" alt="React"  width="40"  height="40" /> </a>
 <a  href="https://www.atlassian.com/es/software/jira"  target="_blank">
-<img  src="SVG/Jira.svg"  title="Jira" alt="Jira"  width="40"  height="40" /> </a>
+<img  src="SVG/jira.svg"  title="Jira" alt="Jira"  width="40"  height="40" /> </a>
 <a href="https://www.docker.com/" target="_blank">
 <img  src="SVG/docker-original.svg"  title="Docker" alt="Docker" width="40"  height="40" /> </a>
 <a href="https://www.jenkins.io/" target="_blank">
