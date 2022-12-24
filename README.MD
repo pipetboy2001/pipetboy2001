@@ -25,7 +25,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img  src="SVG/html5-original-wordmark.svg"  title="HTML5" alt="html5" width="40"  height="40" /> </a>
 <a  href="https://www.w3schools.com/css/" target="_blank">
-<img  src="SVG/css3-original-wordmark.svg" title="CCS" alt="css3"  width="40"  height="40" /> </a>
+<img  src="SVG/css3-original-wordmark.svg" title="CSS" alt="css3"  width="40"  height="40" /> </a>
 <a href="https://www.javascript.com/" target="_blank"> 
 <img  src="SVG/Javascript-shield.svg"  title="JavaScript" alt="Javascript" width="40"  height="40"  > </a>
 <a href="https://www.markdownguide.org/" target="_blank"> 
