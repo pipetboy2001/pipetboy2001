@@ -99,7 +99,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)](https://git.io/streak-stats)
   
-  [![github activity graph](https://activity-graph.herokuapp.com/graph?username=pipetboy2001&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Github Activity Graph](https://github-readme-activity-graph.pipetboy2001.repl.co/graph?username=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)
   
   𝗡𝗢𝗧𝗘: 𝗧𝗵𝗶𝘀 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗶𝗻𝗱𝗶𝗰𝗮𝘁𝗲 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹 𝗹𝗲𝘃𝗲𝗹 𝗼𝗿 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, 𝗶𝘁'𝘀 𝗺𝗲𝗿𝗲𝗹𝘆 𝗮 𝗚𝗶𝘁𝗛𝘂𝗯 𝗺𝗲𝘁𝗿𝗶𝗰 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗰𝗼𝗱𝗲 𝗼𝗳 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.
 </div>
