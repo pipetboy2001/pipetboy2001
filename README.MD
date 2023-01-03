@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="./estilos.css">
+</head>
+
+
 <h1  align="center">𝓗𝓲 <img src="gif/wave.gif" width="30">, 𝓘'𝓶 𝓕𝓮𝓵𝓲𝓹𝓮 </h1>
 <h3  align="center">ᴄᴏᴍᴘᴜᴛᴇʀ ᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ ᴇɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ</h3>
 <img src="gif/kirby audifonos.gif" align="right" width="100" height="100"-->
