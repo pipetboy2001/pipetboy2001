@@ -16,6 +16,7 @@ Herramientas utilizadas para este readme:
 - https://github.com/devicons/devicon
 - https://github.com/DenverCoder1/github-readme-streak-stats
 - https://github.com/ashutosh00710/github-readme-activity-graph
+- https://github.com/ryo-ma/github-profile-trophy
 
 -->
 
@@ -118,8 +119,9 @@ Herramientas utilizadas para este readme:
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=pipetboy2001&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-  
+   <img src="https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4" />
+ 
+ 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)](https://git.io/streak-stats)
   
   ![Github Activity Graph](https://github-readme-activity-graph.pipetboy2001.repl.co/graph?username=pipetboy2001&theme=rogue&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)
