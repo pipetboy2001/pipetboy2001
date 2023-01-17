@@ -14,6 +14,7 @@ Herramientas utilizadas para este readme:
 - https://stackedit.io/ 
 - https://Readme-typing-svg.demolab.com 
 - https://github.com/devicons/devicon
+- https://github.com/anuraghazra/github-readme-stats
 - https://github.com/DenverCoder1/github-readme-streak-stats
 - https://github.com/ashutosh00710/github-readme-activity-graph
 - https://github.com/ryo-ma/github-profile-trophy
@@ -112,9 +113,9 @@ Herramientas utilizadas para este readme:
 
 <h1  align="center"><img src="gif/borderseperator.gif">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
 
-<img height="170" align="left" src="https://github-readme-stats-pipetboy2001.vercel.app/api?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
- <img src="https://github-readme-stats-pipetboy2001.vercel.app/api/top-langs/?username=Pipetboy2001&layout=compact&theme=radical&langs" />
+<img height="170" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 
+<img height="180px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
 
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
