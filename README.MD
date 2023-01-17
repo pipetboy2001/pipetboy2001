@@ -115,7 +115,7 @@ Herramientas utilizadas para este readme:
 
 <img height="170" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 
-<img height="180px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
+<img height="160px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
 
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
