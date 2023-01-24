@@ -120,8 +120,9 @@ Herramientas utilizadas para este readme:
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
 <div>
-   <img src="https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4" />
- 
+<img width="50%" alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=Pipetboy WakaTime" />
+
+   <img width="50%" src="https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4" />
  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)](https://git.io/streak-stats)
   
