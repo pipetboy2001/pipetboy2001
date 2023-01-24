@@ -128,7 +128,7 @@ Herramientas utilizadas para este readme:
    <img height="170" src="http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=Pipetboy WakaTime" />
+  <img height="170" alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=Pipetboy WakaTime" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">   <img src="https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4
