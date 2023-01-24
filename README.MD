@@ -113,20 +113,29 @@ Herramientas utilizadas para este readme:
 
 <h1  align="center"><img src="gif/borderseperator.gif">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
 
-<img height="170" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-
-<img height="160px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
+<a href="https://github.com/anuraghazra/convoychat">
+   <img height="170" alt="Pipetboy Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
+</a>
 
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
 <div>
-<img width="50%" alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=Pipetboy WakaTime" />
 
-   <img width="50%" src="https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4" />
- 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+   <img height="170" src="http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=Pipetboy WakaTime" />
+</a>
+
+   <img src="https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4
+&column=8" />
   
-  ![Github Activity Graph](https://github-readme-activity-graph.pipetboy2001.repl.co/graph?username=pipetboy2001&theme=rogue&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pipetboy Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Pipetboy2001&theme=rogue&hide_border=true&point=FFFFFF&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)" /></a>
+
 
  
   𝗡𝗢𝗧𝗘: 𝗧𝗵𝗶𝘀 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗶𝗻𝗱𝗶𝗰𝗮𝘁𝗲 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹 𝗹𝗲𝘃𝗲𝗹 𝗼𝗿 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, 𝗶𝘁'𝘀 𝗺𝗲𝗿𝗲𝗹𝘆 𝗮 𝗚𝗶𝘁𝗛𝘂𝗯 𝗺𝗲𝘁𝗿𝗶𝗰 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗰𝗼𝗱𝗲 𝗼𝗳 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.
