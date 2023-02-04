@@ -23,42 +23,51 @@ Herramientas utilizadas para este readme:
 
 <h1  align="center">𝓗𝓲 <img src="gif/wave.gif" width="30">, 𝓘'𝓶 𝓕𝓮𝓵𝓲𝓹𝓮 </h1>
 <center>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9E5DD3&width=435&lines=%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%98%E1%B4%9C%E1%B4%9B%E1%B4%87%CA%80+%E1%B4%80%C9%B4%E1%B4%85+%C9%AA%C9%B4%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%84%EA%9C%B1+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80%C9%AA%C9%B4%C9%A2+" align="center" alt="Hola, soy Pipetboy ¡Bienvenido a mi perfil! animado mecanografiado">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9E5DD3&width=435&lines=%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%98%E1%B4%9C%E1%B4%9B%E1%B4%87%CA%80+%E1%B4%80%C9%B4%E1%B4%85+%C9%AA%C9%B4%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%84%EA%9C%B1+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80%C9%AA%C9%B4%C9%A2+" align="center" alt="Hola, soy Pipetboy ¡Bienvenido a mi perfil! animado mecanografiado">
 </center>
-<img src="gif/kirby audifonos.gif" align="right" width="100" height="100"-->
+
+<img src="gif/kirby audifonos.gif" align="right" width="100" height="100">
 
 * <b>𝙞𝙢'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜: </b>Frameworks and use of design tools|:office:
 * <b>𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲:</b> Chile | :chile:
 * <b>𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐭𝐡𝐚𝐭 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞𝐝:</b> Spanish and english | :suspect:
 * <b>𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭: </b>  [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:	
 
-<h2  align="center" ><img src="gif/borderseperator.gif">👻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:</h2>
-<img src="gif/kirby y coo.gif" align="left" width="200" height="300">
-<p  align="left">
+<img src="gif/borderseperator.gif"/>
+<h2 align="center" >👻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:</h2>
+<!-- <img src="gif/kirby y coo.gif" align="right" width="200" height="400">  -->
 <h3  align="left"  style="font-size: 24px"> 🌸 LANGUAGES & DATABASE:</h2>
-<ul>
+
 <a  href="https://www.cprogramming.com/"  target="_blank">
 <img  src="SVG/c-original.svg"   title="C" alt="c"  width="40"  height="40" /> </a>
+
 <a  href="https://www.python.org"  target="_blank">
 <img  src="SVG/python-original.svg"  title="Python" alt="python"  width="40"  height="40" /> </a>
+
 <a href="https://www.swi-prolog.org/"  target="_blank">
 <img  src="SVG/prolog.svg"  title="Prolog" alt="prolog"  width="40"  height="40" /> </a>
+
 <a  href="https://www.java.com/es/"  target="_blank">
 <img  src="SVG/java-4-logo.svg"  title="JAVA" alt="Java"  width="40"  height="40" /> </a>
+
 <a href="https://www.php.net/" target="_blank"> 
 <img  src="SVG/PHP-logo.svg"  title="PHP" alt="PHP" width="40"  height="40" /> </a>
+
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img  src="SVG/html5-original-wordmark.svg"  title="HTML5" alt="html5" width="40"  height="40" /> </a>
+
 <a  href="https://www.w3schools.com/css/" target="_blank">
 <img  src="SVG/css3-original-wordmark.svg" title="CSS" alt="css3"  width="40"  height="40" /> </a>
+
 <a href="https://www.javascript.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40"  height="40"  > </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40"  height="40"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40"  height="40"/></a>
+
 <a href="https://www.markdownguide.org/" target="_blank"> 
 <img  src="SVG/Markdown-mark.svg" title="MarkDown" alt="MarkDown" width="40"  height="40" /> </a>
-<!--Database-->
+
 <a href="https://www.mysql.com/" target="_blank">
 <img  src="SVG/mysql.svg"  title="MySQL" alt="MySQL" width="40"  height="40" /> </a>
 <a href="https://www.postgresql.org" target="_blank">
@@ -75,7 +84,7 @@ Herramientas utilizadas para este readme:
 <img  src="SVG/Bootstrap_logo.svg"  title="Bootstrap" alt="Bootstrap"  width="40"  height="40" /> </a>
 <a href='https://sass-lang.com/' target='_blank'> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"title="Sass" alt="Sass"  width="40"  height="40"  /></a>
-          
+                    
 <a  href="https://spring.io/"  target="_blank">
 <img  src="SVG/spring-logo.svg"  title="Spring" alt="Spring"  width="40"  height="40" /> </a>
 <a  href="https://laravel.com/"  target="_blank">
@@ -117,7 +126,8 @@ Herramientas utilizadas para este readme:
 <a  href="https://www.figma.com/"  target="_blank">
 <img  src="SVG/Figma-logo.svg" title="Figma" alt="Figma"  width="40"  height="40" /> </a>
 
-<h1  align="center"><img src="gif/borderseperator.gif">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
+<img src="gif/borderseperator.gif"/>
+<h1  align="center"> 📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈 </h1>
 
 <a href="https://github.com/anuraghazra/convoychat">
    <img height="140"  alt="Pipetboy Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
@@ -148,11 +158,25 @@ Herramientas utilizadas para este readme:
 </div>
 </details>
 
-<h2 align="center" style="font-size: 24px"><img src="gif/borderseperator.gif">~🐱‍💻 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 🐱‍💻:~<h2>
-        <p align="center">
-                <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
-                src="SVG/twitter.svg" alt="pipetboy2001" height="30" width="40" /></a>
-                <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
-                src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
-        </p>
-</div>
+
+<img src="gif/borderseperator.gif"/>
+
+<details>
+<summary>🖼 HoloPin and Spotify 🎶</summary>
+
+[![An image of @pipetboy2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pipetboy2001)](https://holopin.io/@pipetboy2001)
+  
+
+</details>
+
+<img src="gif/borderseperator.gif"/>
+<h2 align="center" style="font-size: 24px">
+    ~🐱‍💻 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 🐱‍💻:~
+<h2>
+
+<p align="center">
+    <a href="https://twitter.com/pipetboy2001" target="blank"><img align="center"
+        src="SVG/twitter.svg" alt="pipetboy2001" height="30" width="40" /></a>
+    <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
+        src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
+</p>
