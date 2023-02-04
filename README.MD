@@ -52,7 +52,10 @@ Herramientas utilizadas para este readme:
 <a  href="https://www.w3schools.com/css/" target="_blank">
 <img  src="SVG/css3-original-wordmark.svg" title="CSS" alt="css3"  width="40"  height="40" /> </a>
 <a href="https://www.javascript.com/" target="_blank"> 
-<img  src="SVG/Javascript-shield.svg"  title="JavaScript" alt="Javascript" width="40"  height="40"  > </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40"  height="40"  > </a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40"  height="40"/>
+</a>
 <a href="https://www.markdownguide.org/" target="_blank"> 
 <img  src="SVG/Markdown-mark.svg" title="MarkDown" alt="MarkDown" width="40"  height="40" /> </a>
 <!--Database-->
@@ -70,6 +73,9 @@ Herramientas utilizadas para este readme:
 <img  src="SVG/git-original.svg" title="GIT" alt="GIT"  width="40"  height="40" /> </a>
 <a  href="https://getbootstrap.com/"  target="_blank">
 <img  src="SVG/Bootstrap_logo.svg"  title="Bootstrap" alt="Bootstrap"  width="40"  height="40" /> </a>
+<a href='https://sass-lang.com/' target='_blank'> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"title="Sass" alt="Sass"  width="40"  height="40"  /></a>
+          
 <a  href="https://spring.io/"  target="_blank">
 <img  src="SVG/spring-logo.svg"  title="Spring" alt="Spring"  width="40"  height="40" /> </a>
 <a  href="https://laravel.com/"  target="_blank">
@@ -114,10 +120,10 @@ Herramientas utilizadas para este readme:
 <h1  align="center"><img src="gif/borderseperator.gif">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈</h1>
 
 <a href="https://github.com/anuraghazra/convoychat">
-   <img height="170" alt="Pipetboy Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+   <img height="140"  alt="Pipetboy Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pipetboy2001&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
+  <img height="140"  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
 </a>
 
 <details>
@@ -125,10 +131,10 @@ Herramientas utilizadas para este readme:
 <div>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-   <img height="170" src="http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427"/>
+   <img height="150"  src="http://github-readme-streak-stats.herokuapp.com?user=pipetboy2001&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=PipetboyWakaTime" />
+  <img height="150"  alt="wakaTime Pipetboy" src="https://github-readme-stats.vercel.app/api/wakatime?username=pipetboy2001&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Rof&custom_title=PipetboyWakaTime" />
 </a>
 
 [![trophy](https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4&column=8)](https://github.com/ryo-ma/github-profile-trophy)
