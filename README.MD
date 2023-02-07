@@ -80,6 +80,9 @@ Herramientas utilizadas para este readme:
 <h3  align="left"  style="font-size: 24px"> 🌷 FRAMEWORKS, PLATFORMS , LIBRARIES & TOOLS:</h2>
 <a  href="https://git-scm.com/"  target="_blank">
 <img  src="SVG/git-original.svg" title="GIT" alt="GIT"  width="40"  height="40" /> </a>
+<a  href="https://filezilla-project.org/"  target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"
+title="Filezilla" alt="Fillezilla"  width="40"  height="40" /> </a>
 <a  href="https://getbootstrap.com/"  target="_blank">
 <img  src="SVG/Bootstrap_logo.svg"  title="Bootstrap" alt="Bootstrap"  width="40"  height="40" /> </a>
 <a href='https://sass-lang.com/' target='_blank'> 
