@@ -38,97 +38,97 @@ Herramientas utilizadas para este readme:
 <!-- <img src="gif/kirby y coo.gif" align="right" width="200" height="400">  -->
 <h3  align="left"  style="font-size: 24px"> 🌸 LANGUAGES & DATABASE:</h2>
 
-<a  href="https://www.cprogramming.com/"  target="_blank">
+<a  href="https://www.cprogramming.com/"  target="_blank" rel="noopener">
 <img  src="SVG/c-original.svg"   title="C" alt="c"  width="40"  height="40" /> </a>
 
-<a  href="https://www.python.org"  target="_blank">
+<a  href="https://www.python.org"  target="_blank" rel="noopener">
 <img  src="SVG/python-original.svg"  title="Python" alt="python"  width="40"  height="40" /> </a>
 
-<a href="https://www.swi-prolog.org/"  target="_blank">
+<a href="https://www.swi-prolog.org/"  target="_blank" rel="noopener">
 <img  src="SVG/prolog.svg"  title="Prolog" alt="prolog"  width="40"  height="40" /> </a>
 
-<a  href="https://www.java.com/es/"  target="_blank">
+<a  href="https://www.java.com/es/"  target="_blank" rel="noopener">
 <img  src="SVG/java-4-logo.svg"  title="JAVA" alt="Java"  width="40"  height="40" /> </a>
 
-<a href="https://www.php.net/" target="_blank"> 
+<a href="https://www.php.net/" target="_blank" rel="noopener"> 
 <img  src="SVG/PHP-logo.svg"  title="PHP" alt="PHP" width="40"  height="40" /> </a>
 
-<a href="https://www.w3.org/html/" target="_blank"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noopener"> 
 <img  src="SVG/html5-original-wordmark.svg"  title="HTML5" alt="html5" width="40"  height="40" /> </a>
 
-<a  href="https://www.w3schools.com/css/" target="_blank">
+<a  href="https://www.w3schools.com/css/" target="_blank" rel="noopener">
 <img  src="SVG/css3-original-wordmark.svg" title="CSS" alt="css3"  width="40"  height="40" /> </a>
 
-<a href="https://www.javascript.com/" target="_blank"> 
+<a href="https://www.javascript.com/" target="_blank" rel="noopener"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40"  height="40"  > </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40"  height="40"/></a>
 
-<a href="https://www.markdownguide.org/" target="_blank"> 
+<a href="https://www.markdownguide.org/" target="_blank" rel="noopener"> 
 <img  src="SVG/Markdown-mark.svg" title="MarkDown" alt="MarkDown" width="40"  height="40" /> </a>
 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" rel="noopener">
 <img  src="SVG/mysql.svg"  title="MySQL" alt="MySQL" width="40"  height="40" /> </a>
-<a href="https://www.postgresql.org" target="_blank">
+<a href="https://www.postgresql.org" target="_blank" rel="noopener">
 <img  src="SVG/postgresql.svg"  title="PostgreSQL" alt="PostgreSQL" width="40"  height="40" /> </a>
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener">
 <img  src="SVG/mongodb.svg"  title="MongoDB" alt="MongoDB" width="40"  height="40" /> </a>
-<a href="https://firebase.google.com/" target="_blank">
+<a href="https://firebase.google.com/" target="_blank" rel="noopener">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="firebase" alt="Firebase" width="40" height="40"/></a>
 
 
 <!-- FRAMEWORKS, PLATFORMS & LIBRARIES -->
 <h3  align="left"  style="font-size: 24px"> 🌷 FRAMEWORKS, PLATFORMS , LIBRARIES & TOOLS:</h2>
-<a  href="https://git-scm.com/"  target="_blank">
+<a  href="https://git-scm.com/"  target="_blank" rel="noopener">
 <img  src="SVG/git-original.svg" title="GIT" alt="GIT"  width="40"  height="40" /> </a>
-<a  href="https://filezilla-project.org/"  target="_blank">
+<a  href="https://filezilla-project.org/"  target="_blank" rel="noopener">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"
 title="Filezilla" alt="Fillezilla"  width="40"  height="40" /> </a>
-<a  href="https://getbootstrap.com/"  target="_blank">
+<a  href="https://getbootstrap.com/"  target="_blank" rel="noopener">
 <img  src="SVG/Bootstrap_logo.svg"  title="Bootstrap" alt="Bootstrap"  width="40"  height="40" /> </a>
 <a href='https://sass-lang.com/' target='_blank'> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"title="Sass" alt="Sass"  width="40"  height="40"  /></a>
                     
-<a  href="https://spring.io/"  target="_blank">
+<a  href="https://spring.io/"  target="_blank" rel="noopener">
 <img  src="SVG/spring-logo.svg"  title="Spring" alt="Spring"  width="40"  height="40" /> </a>
-<a  href="https://laravel.com/"  target="_blank">
+<a  href="https://laravel.com/"  target="_blank" rel="noopener">
 <img  src="SVG/Laravel.svg"  title="Laravel" alt="Laravel"  width="40"  height="40" /> </a>
-<a  href="https://nodejs.org/en/"  target="_blank">
+<a  href="https://nodejs.org/en/"  target="_blank" rel="noopener">
 <img  src="SVG/node-js.svg"  title="Node.js" alt="Node JS"  width="40"  height="40" /> </a>
-<a  href="https://vuejs.org/"  target="_blank">
+<a  href="https://vuejs.org/"  target="_blank" rel="noopener">
 <img  src="SVG/Vue.js.svg"  title="Vue" alt="Vue"  width="40"  height="40" /> </a>
-<a  href="https://reactjs.org/"  target="_blank">
+<a  href="https://reactjs.org/"  target="_blank" rel="noopener">
 <img  src="SVG/React-icon.svg"  title="React" alt="React"  width="40"  height="40" /> </a>
-<a  href="https://www.atlassian.com/es/software/jira"  target="_blank">
+<a  href="https://www.atlassian.com/es/software/jira"  target="_blank" rel="noopener">
 <img  src="SVG/jira.svg"  title="Jira" alt="Jira"  width="40"  height="40" /> </a>
-<a href="https://www.docker.com/" target="_blank">
+<a href="https://www.docker.com/" target="_blank" rel="noopener">
 <img  src="SVG/docker-original.svg"  title="Docker" alt="Docker" width="40"  height="40" /> </a>
-<a href="https://www.jenkins.io/" target="_blank">
+<a href="https://www.jenkins.io/" target="_blank" rel="noopener">
 <img  src="SVG/Jenkins.svg"  title="Jenkins" alt="Jenkins" width="40"  height="40" /> </a>
-<a href="https://prometheus.io/" target="_blank">
+<a href="https://prometheus.io/" target="_blank" rel="noopener">
 <img  src="SVG/prometheus.svg"  title="Prometheus" alt="Prometheus" width="40"  height="40" /> </a>
-<a href="https://grafana.com/" target="_blank">
+<a href="https://grafana.com/" target="_blank" rel="noopener">
 <img  src="SVG/grafana.svg"  title="Grafana" alt="Grafana" width="40"  height="40" /> </a>
-<a  href="https://www.digitalocean.com/"  target="_blank">
+<a  href="https://www.digitalocean.com/"  target="_blank" rel="noopener">
 <img  src="SVG/digitalocean-original.svg"  title="Digital Ocean" alt="Digital Ocean"  width="40"  height="40" /> </a>
 
 
 <!--Diseño-->
 <h3  align="left"  style="font-size: 24px"> 🌺 DESIGN :</h2>
-<a  href="https://www.photoshop.com/en"  target="_blank">
+<a  href="https://www.photoshop.com/en"  target="_blank" rel="noopener">
 <img  src="SVG/Adobe_Photoshop.svg"  title="photoshop" alt="photoshop"  width="40"  height="40" /> </a>
-<a  href="https://www.adobe.com/cl/products/illustrator.html"  target="_blank">
+<a  href="https://www.adobe.com/cl/products/illustrator.html"  target="_blank" rel="noopener">
 <img  src="SVG/Adobe_Illustrator.svg" title="illustrator" alt="Illustrator"  width="40"  height="40" /></a>
-<a  href="https://www.adobe.com/cl/products/xd.html"  target="_blank">
+<a  href="https://www.adobe.com/cl/products/xd.html"  target="_blank" rel="noopener">
 <img  src="SVG/Adobe_XD.svg" title="XD" alt="XD"  width="40"  height="40" /> </a>
-<a  href="https://www.adobe.com/pe/products/premiere.html"  target="_blank">
+<a  href="https://www.adobe.com/pe/products/premiere.html"  target="_blank" rel="noopener">
 <img  src="SVG/Adobe_Premiere_Pro_Logo.svg" title="Premiere pro" alt="Premiere Pro"  width="40"  height="40" /></a>
-<a  href="https://www.adobe.com/cl/products/dreamweaver.htmll"  target="_blank">
+<a  href="https://www.adobe.com/cl/products/dreamweaver.htmll"  target="_blank" rel="noopener">
 <img  src="SVG/Adobe_Dreamweaver.svg"  title="DreamWeaver" alt="DreamWeaver"  width="40"  height="40"/></a>
-<a  href="https://www.canva.com"  target="_blank">
+<a  href="https://www.canva.com"  target="_blank" rel="noopener">
 <img  src="SVG/Canva_icon_2021.svg" title="Canva" alt="Canva"  width="40"  height="40" /> </a>
-<a  href="https://www.figma.com/"  target="_blank">
+<a  href="https://www.figma.com/"  target="_blank" rel="noopener">
 <img  src="SVG/Figma-logo.svg" title="Figma" alt="Figma"  width="40"  height="40" /> </a>
 
 <img src="gif/borderseperator.gif"/>
