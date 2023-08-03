@@ -178,7 +178,8 @@ title="Filezilla" alt="Fillezilla"  width="40"  height="40" /> </a>
 <h2>
 
 <p align="center">
-    
+    <a href="https://www.linkedin.com/in/pipetboy/" target="blank"><img align="center"
+        src="SVG/LinkedIn_icon.svg" alt="pipetboy2001" height="30" width="40" /></a>
     <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
         src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
 </p>
