@@ -74,6 +74,8 @@ Herramientas utilizadas para este readme:
 <img  src="SVG/postgresql.svg"  title="PostgreSQL" alt="PostgreSQL" width="40"  height="40" /> </a>
 <a href="https://www.mongodb.com/" target="_blank">
 <img  src="SVG/mongodb.svg"  title="MongoDB" alt="MongoDB" width="40"  height="40" /> </a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="firebase" alt="Firebase" width="40" height="40"/></a>
 
 
 <!-- FRAMEWORKS, PLATFORMS & LIBRARIES -->
