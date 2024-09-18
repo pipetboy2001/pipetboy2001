@@ -73,7 +73,9 @@ Herramientas utilizadas para este readme:
 ---
 
 ## 📚 **Frameworks**
-
+<a href="https://www.djangoproject.com/" target="_blank" rel="noopener">
+  <img src="SVG/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener">
   <img src="SVG/React-icon.svg" title="React" alt="React" width="40" height="40"/>
 </a>
@@ -93,7 +95,6 @@ Herramientas utilizadas para este readme:
   <img src="SVG/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
 </a>
 
----
 
 ## ⚙️ **Technologies and Tools**
 
@@ -109,11 +110,7 @@ Herramientas utilizadas para este readme:
 <a href="https://vitejs.dev/" target="_blank" rel="noopener">
   <img src="SVG/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>
 </a>
-<a href="https://webpack.js.org/" target="_blank" rel="noopener">
-  <img src="SVG/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
-</a>
 
----
 
 ## 🎨 **Design and Creative Tools**
 
