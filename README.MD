@@ -32,6 +32,8 @@ Herramientas utilizadas para este readme:
 - <b>𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲:</b> Chile | :chile:
 - <b>𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐭𝐡𝐚𝐭 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞𝐝:</b> Spanish and english | :suspect:
 - <b>𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭: </b> [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:
+- <b>🌐 <b> [Portafolio](https://pipetboy.vercel.app/)
+- <b>📝<b> [My CV](https://drive.google.com/file/d/110xmpRwzS8EmvbvHWUUrOCX6pUQrFAPh/view?usp=drive_link)
 
 <img src="gif/borderseperator.gif"/>
 
