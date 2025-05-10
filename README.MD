@@ -29,13 +29,12 @@ Herramientas utilizadas para este readme:
 <img src="gif/kirby audifonos.gif" align="right" width="100" height="100">
 
 - <b>💼 Currently working at:</b> <a href="https://vigalab.com/" title="Vigalab">Vigalab</a> |:office:
-- <b>🎓 Studied at:</b> <a href="https://informatica.usach.cl/" title="University of Santiago de Chile">USACH</a> 🇨🇱 | :shipit:
-- <b>🎯 Learning now:</b> AWS services :aws-logo:
-- <b>🌎 Nationality:</b> Chile | :chile:
-- <b>🗣️ Languages:</b> Spanish & English | :skeleton-dance:
-- <b>🌐 Portfolio:</b> <a href="https://pipetboy.vercel.app/">pipetboy.vercel.app</a> :polar-bear-police:
-- <b>📄 My CV:</b> <a href="https://drive.google.com/file/d/110xmpRwzS8EmvbvHWUUrOCX6pUQrFAPh/view?usp=drive_link">View CV</a>
-
+- <b>🎓 Studied at: </b> [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:
+- <b>:bulb: 𝙞𝙢'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜: </b> AWS | :octocat:
+- <b>🌎 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲:</b> Chile | :chile:
+- <b>🗣️ 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐭𝐡𝐚𝐭 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞𝐝:</b> Spanish and english | :suspect:
+- <b>🌐 <b> [Portafolio](https://pipetboy.vercel.app/)
+- <b>📝<b> [My CV](https://drive.google.com/file/d/110xmpRwzS8EmvbvHWUUrOCX6pUQrFAPh/view?usp=drive_link)
 
 <img src="gif/borderseperator.gif"/>
 ## 🛠️ **Languages**
