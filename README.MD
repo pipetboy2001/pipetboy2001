@@ -38,91 +38,21 @@ Herramientas utilizadas para este readme:
 
 <img src="gif/borderseperator.gif"/>
 
-## 🛠️ **Languages**
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="vertical-align: middle;">
+  <span style="font-size: 24px; font-weight: bold; margin-left: 10px; margin-top: -40px;"><b>𝓜𝔂 𝓢𝓴𝓲𝓵𝓵𝓼</b></span>
+</p>
 
-<a href="https://www.python.org" target="_blank" rel="noopener">
-  <img src="SVG/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noopener">
-  <img src="SVG/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener">
-  <img src="SVG/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-</a>
+<div align="center">
 
----
-
-## 🗄️ **Databases**
-
-<a href="https://www.mysql.com/" target="_blank" rel="noopener">
-  <img src="SVG/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noopener">
-  <img src="SVG/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener">
-  <img src="SVG/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-</a>
-
----
-
-## 📚 **Frameworks**
-<a href="https://www.djangoproject.com/" target="_blank" rel="noopener">
-  <img src="SVG/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noopener">
-  <img src="SVG/React-icon.svg" title="React" alt="React" width="40" height="40"/>
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noopener">
-  <img src="SVG/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noopener">
-  <img src="SVG/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noopener">
-  <img src="SVG/Bootstrap_logo.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noopener">
-  <img src="SVG/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noopener">
-  <img src="SVG/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-
-
-## ⚙️ **Technologies and Tools**
-
-<a href="https://www.docker.com/" target="_blank" rel="noopener">
-  <img src="SVG/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noopener">
-  <img src="SVG/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
-</a>
-<a href="https://www.digitalocean.com/" target="_blank" rel="noopener">
-  <img src="SVG/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noopener">
-  <img src="SVG/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>
-</a>
-
-
-## 🎨 **Design and Creative Tools**
-
-<a href="https://www.figma.com/" target="_blank" rel="noopener">
-  <img src="SVG/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>
-</a>
-<a href="https://www.canva.com/" target="_blank" rel="noopener">
-  <img src="SVG/Canva_icon_2021.svg" title="Canva" alt="Canva" width="40" height="40"/>
-</a>
+| 🧩 **Category** | 💻 **Skills** |
+|------------------|---------------|
+| 🌀 **Languages** | ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)  |
+| 💅 **Frontend & Mobile** | ![React](https://skillicons.dev/icons?i=react) ![React Native](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Vite](https://skillicons.dev/icons?i=vite) |
+| ⚙️ **Backend & API** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)  ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) |
+| 🗄️ **Database & Cloud** | ![Docker](https://skillicons.dev/icons?i=docker) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)  ![SQLite](https://skillicons.dev/icons?i=sqlite) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase) ![AWS](https://skillicons.dev/icons?i=aws) ![DigitalOcean](https://skillicons.dev/icons?i=digitalocean) |
+| 🧰 **Dev Tools** | ![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Vitest](https://skillicons.dev/icons?i=vitest) ![Figma](https://skillicons.dev/icons?i=figma) |
+</div>
 
 <img src="gif/borderseperator.gif"/>
 <h1  align="center"> 📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈 </h1>
