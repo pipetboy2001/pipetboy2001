@@ -90,8 +90,7 @@ Herramientas utilizadas para este readme:
 <h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/pipetboy/" target="blank"><img align="center"
-        src="SVG/LinkedIn_icon.svg" alt="pipetboy2001" height="30" width="40" /></a>
-    <a href="https://instagram.com/Pipetboy2001" target="blank"><img align="center"
-        src="SVG/instagram.svg" alt="Pipetboy2001" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pipetboy/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
+  </a>
 </p>
