@@ -38,10 +38,10 @@ Herramientas utilizadas para este readme:
 
 <img src="gif/borderseperator.gif"/>
 
-<p align="left">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="vertical-align: middle;">
-  <span style="font-size: 24px; font-weight: bold; margin-left: 10px; margin-top: -40px;"><b>𝓜𝔂 𝓢𝓴𝓲𝓵𝓵𝓼</b></span>
-</p>
+  <span style="font-weight:bold; margin-left:10px; vertical-align: middle;">𝓜𝔂 𝓢𝓴𝓲𝓵𝓵𝓼</span>
+</h1>
 
 <div align="center">
 
