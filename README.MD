@@ -65,7 +65,7 @@ Herramientas utilizadas para este readme:
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pipetboy/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <details>
