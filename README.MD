@@ -82,7 +82,9 @@ Herramientas utilizadas para este readme:
 
 [![trophy](https://hacked-github-stat-trophies.vercel.app/?username=pipetboy2001&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=false&margin-w=4&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pipetboy Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Pipetboy2001&theme=rogue&hide_border=true&point=FFFFFF&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&stroke=F7D747&ring=F7EE64&fire=DD6017&currStreakNum=DD39DB&sideLabels=DDD427)" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Pipetboy Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pipetboy2001&theme=react-dark" />
+</a>
 
 𝗡𝗢𝗧𝗘: 𝗧𝗵𝗶𝘀 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗶𝗻𝗱𝗶𝗰𝗮𝘁𝗲 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹 𝗹𝗲𝘃𝗲𝗹 𝗼𝗿 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, 𝗶𝘁'𝘀 𝗺𝗲𝗿𝗲𝗹𝘆 𝗮 𝗚𝗶𝘁𝗛𝘂𝗯 𝗺𝗲𝘁𝗿𝗶𝗰 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗰𝗼𝗱𝗲 𝗼𝗳 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯.
 
