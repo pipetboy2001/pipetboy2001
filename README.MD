@@ -23,7 +23,7 @@ Herramientas utilizadas para este readme:
 
 <h1  align="center">𝓗𝓲 <img src="gif/wave.gif" width="30">, 𝓘'𝓶 𝓕𝓮𝓵𝓲𝓹𝓮 </h1>
 <center>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9E5DD3&width=435&lines=%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%98%E1%B4%9C%E1%B4%9B%E1%B4%87%CA%80+%E1%B4%80%C9%B4%E1%B4%85+%C9%AA%C9%B4%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%84%EA%9C%B1+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80%C9%AA%C9%B4%C9%A2+" align="center" alt="Hola, soy Pipetboy ¡Bienvenido a mi perfil! animado mecanografiado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DD3&random=true&width=500&lines=Computer+Scientist" align="center" alt="Hola, soy Pipetboy ¡Bienvenido a mi perfil! animado mecanografiado"> 
 </center>
 
 <img src="gif/kirby audifonos.gif" align="right" width="100" height="100">
