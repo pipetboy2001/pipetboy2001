@@ -29,7 +29,7 @@ Herramientas utilizadas para este readme:
 <img src="gif/kirby audifonos.gif" align="right" width="100" height="100">
 
 - <b>💼 **Currently working at**:</b> <a href="https://vigalab.com/" title="Vigalab">Vigalab - Minewatch</a> | :office:
-- <b>🎓 **Studied at**: </b> [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:
+- <b>🎓 **Bachelor's degree in Computer Science from**: </b> [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:
 - <b>:bulb: 𝙞𝙢'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜: </b> Vitest | :octocat:
 - <b>🌎 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲:</b> Chile | :chile:
 - <b>🗣️ 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐭𝐡𝐚𝐭 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞𝐝:</b> Spanish and english | :suspect:
