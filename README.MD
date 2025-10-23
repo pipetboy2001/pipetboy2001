@@ -28,11 +28,11 @@ Herramientas utilizadas para este readme:
 
 <img src="gif/kirby audifonos.gif" align="right" width="100" height="100">
 
-- <b>💼 **Currently working at**:</b> <a href="https://vigalab.com/" title="Vigalab">Vigalab - Minewatch</a> | :office:
-- <b>🎓 **Bachelor's degree in Computer Science from**: </b> [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:
-- <b>:bulb: 𝙞𝙢'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜: </b> Vitest | :octocat:
-- <b>🌎 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲:</b> Chile | :chile:
-- <b>🗣️ **Languages I speak** :</b> Spanish and english | :suspect:
+- <b>💼 **𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐭:**:</b> <a href="https://vigalab.com/" title="Vigalab">Vigalab - Minewatch</a> | :office:
+- <b>🎓 **𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐫𝐨𝐦:**: </b> [USACH](https://informatica.usach.cl/ "University of Santiago de Chile"). | :shipit:
+- <b>:bulb: **𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠:** </b> Vitest | :octocat:
+- <b>🌎 **𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲:**</b> Chilean | :chile:
+- <b>🗣️ **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐈 𝐬𝐩𝐞𝐚𝐤:**</b> Spanish and English | :suspect:
 - <b>🌐 <b> [Portafolio](https://pipetboy.vercel.app/)
 - <b>📝<b> [My CV](https://drive.google.com/file/d/110xmpRwzS8EmvbvHWUUrOCX6pUQrFAPh/view?usp=drive_link)
 
