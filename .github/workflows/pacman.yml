@@ -1,4 +1,4 @@
-name: 👾 Pacman Contribution Graph
+name: 👾 Arcade Contribution Graph
 
 on:
   schedule:
@@ -23,7 +23,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'pacman,breakout,galaga'
+          player_style: aggressive
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
