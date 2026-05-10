@@ -72,9 +72,9 @@ Herramientas utilizadas para este readme:
 <h1 align="center">🕹️ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓐𝓻𝓬𝓪𝓭𝓮</h1>
 <!-- Featured Game: Pac-Man -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/pipetboy2001/pipetboy2001/-/raw/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/pipetboy2001/pipetboy2001/-/raw/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://gitlab.com/pipetboy2001/pipetboy2001/-/raw/main/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
 </picture>
 
 <details>
@@ -94,35 +94,24 @@ Herramientas utilizadas para este readme:
 
 <h3 align="center">🧱 Breakout</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph-dark.svg">
 
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
+ </picture>
 
-    <img alt="Breakout contribution graph"
-      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
-  </picture>
-</p>
 
 ---
 
 <h3 align="center">🚀 Galaga</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph-dark.svg">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
+   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
+ </picture>
 
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
-
-    <img alt="Galaga contribution graph"
-      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
-  </picture>
-</p>
 
 </details>
 
