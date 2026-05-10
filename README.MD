@@ -50,48 +50,31 @@
 <img src="gif/borderseperator.gif"/>
 <h1 align="center">🕹️ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓐𝓻𝓬𝓪𝓭𝓮</h1>
 <!-- Featured Game: Pac-Man -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph.svg">
+  </picture>
 <details>
-<summary>🎮 More Arcade Games</summary>
+  <summary>🎮 More Arcade Games</summary>
 
-<br>
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake" />
+  </p>
 
-<h3 align="center">🐍 Snake</h3>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/breakout-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/breakout-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/breakout-contribution-graph.svg">
+  </picture>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<h3 align="center">🧱 Breakout</h3>
-
-
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
- </picture>
-
-
----
-
-<h3 align="center">🚀 Galaga</h3>
-
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
-   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
- </picture>
-
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/galaga-contribution-graph.svg">
+  </picture>
 </details>
 
 
