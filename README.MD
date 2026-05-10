@@ -1,25 +1,4 @@
-<!-- Este es mi perfil Readme.
- Pasé un buen tiempo trabajando en él y sigo mejorandolo cada vez que puedo, así que si te gusta, no dudes en inspirarte en él.
-@Autor: Pipetboy2001
 
-Para crear un README en GitHub es muy sencillo, solo sigue estos pasos:
-
--Haz clic en el botón "Crear nuevo archivo" en un repositorio de GitHub que hayas creado.
--En el campo "Nombra tu archivo", escribe "README.md" (sin comillas).
--Sientete libre de copiar y pegar lo que quieras de mi archivo "Léame", personalizandolo para que se ajuste a tu propio tema y estadisticas.
--Una vez que hayas agregado todo el contenido, desplazate hasta la parte inferior de la pagina y haz clic en el boton "Confirmar archivo nuevo".
--Tu README ahora estará visible en la pagina principal de tu repositorio.
-
-Herramientas utilizadas para este readme:
-- https://stackedit.io/
-- https://Readme-typing-svg.demolab.com
-- https://github.com/devicons/devicon
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/DenverCoder1/github-readme-streak-stats
-- https://github.com/ashutosh00710/github-readme-activity-graph
-- https://github.com/ryo-ma/github-profile-trophy
-
--->
 
 <h1  align="center">𝓗𝓲 <img src="gif/wave.gif" width="30">, 𝓘'𝓶 𝓕𝓮𝓵𝓲𝓹𝓮 </h1>
 <center>
@@ -72,8 +51,8 @@ Herramientas utilizadas para este readme:
 <h1 align="center">🕹️ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓐𝓻𝓬𝓪𝓭𝓮</h1>
 <!-- Featured Game: Pac-Man -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output-arcade/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
 </picture>
 
