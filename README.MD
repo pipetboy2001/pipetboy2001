@@ -66,15 +66,70 @@ Herramientas utilizadas para este readme:
 </a>
 
 
-  <img src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="gif/borderseperator.gif"/>
+<h1 align="center">🕹️ 𝒢𝒾𝓉𝒽𝓊𝒷 Arcade</h1>
+<!-- Featured Game: Pac-Man -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph-dark.svg">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
-</picture>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+    <img alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<details>
+<summary>🎮 More Arcade Games</summary>
+
+<br>
+
+<h3 align="center">🐍 Snake</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+<h3 align="center">🧱 Breakout</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
+
+    <img alt="Breakout contribution graph"
+      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/breakout-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+<h3 align="center">🚀 Galaga</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
+
+    <img alt="Galaga contribution graph"
+      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/galaga-contribution-graph.svg">
+  </picture>
+</p>
+
+</details>
 
 </p>
 
