@@ -1,4 +1,4 @@
-name: Generate arcade animation
+name: 👾 Pacman Contribution Graph
 
 on:
   schedule:
