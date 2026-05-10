@@ -71,18 +71,11 @@ Herramientas utilizadas para este readme:
 <img src="gif/borderseperator.gif"/>
 <h1 align="center">🕹️ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓐𝓻𝓬𝓪𝓭𝓮</h1>
 <!-- Featured Game: Pac-Man -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
-
-    <img alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/pipetboy2001/pipetboy2001/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/pipetboy2001/pipetboy2001/-/raw/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/pipetboy2001/pipetboy2001/-/raw/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://gitlab.com/pipetboy2001/pipetboy2001/-/raw/main/output/pacman-contribution-graph.svg">
+</picture>
 
 <details>
 <summary>🎮 More Arcade Games</summary>
