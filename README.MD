@@ -64,10 +64,12 @@ Herramientas utilizadas para este readme:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="140"  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pipetboy2001&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" />
 </a>
+</p>
+
 
 
 <img src="gif/borderseperator.gif"/>
-<h1 align="center">🕹️ 𝒢𝒾𝓉𝒽𝓊𝒷 Arcade</h1>
+<h1 align="center">🕹️ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓐𝓻𝓬𝓪𝓭𝓮</h1>
 <!-- Featured Game: Pac-Man -->
 <p align="center">
   <picture>
@@ -131,7 +133,6 @@ Herramientas utilizadas para este readme:
 
 </details>
 
-</p>
 
 <details>
 <summary>𝘔𝘰𝘳𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 👇🏻</summary>
